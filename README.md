@@ -3,7 +3,7 @@
 
 Scripts are to be run according to their numerica order. As it is set, outputs will be written locally.
 
-Input file is provided in the folder data.
+Input file is provided.
 
 Further information can be found in the [original article](https://doi.org/10.3389/fmicb.2017.00752)
 
