@@ -1,5 +1,5 @@
 # HMA-LMA-SMP2017
-Prediction of HMA-LMA dichotomy by machine learning as in Moitinho-Silva 2017
+## Machine learning part of the publication Prediction of HMA-LMA dichotomy by machine learning as in Moitinho-Silva Front. Microbiol. 2017
 
 Scripts are to be run according to their numerica order. As it is set, outputs will be written locally.
 
